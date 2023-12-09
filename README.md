@@ -13,8 +13,6 @@ Configuration for my [home-assistant](https://www.home-assistant.io) setup runni
 ## Hardware
 
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
-- [Raspberry Pi Camera V2](https://www.home-assistant.io/integrations/rpi_camera/)
-- [~~Telldus Tellstick ZNet Lite v2~~](https://home-assistant.io/integrations/tellduslive/)
 - [Samsung SmartThings Hub](https://home-assistant.io/integrations/smartthings/)
 - [Samsung Washer/Dryer](https://www.home-assistant.io/integrations/smartthings/)
 - [Samsung Smart TV](https://home-assistant.io/integrations/samsungtv/)
