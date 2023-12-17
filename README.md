@@ -13,16 +13,14 @@ Configuration for my [home-assistant](https://www.home-assistant.io) setup runni
 ## Hardware
 
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
-- [Samsung SmartThings Hub](https://home-assistant.io/integrations/smartthings/)
-- [Samsung Washer/Dryer](https://www.home-assistant.io/integrations/smartthings/)
-- [Samsung Smart TV](https://home-assistant.io/integrations/samsungtv/)
-- [Phillips Hue Hub](https://www.home-assistant.io/integrations/hue/)
-- [Google Nest Mini / Hub / Audio](https://www.home-assistant.io/integrations/google_assistant/)
-- [Google Chromecast](https://www.home-assistant.io/integrations/cast/)
-- [Netatmo Weather Station](https://home-assistant.io/integrations/netatmo/)
-- [Xiaomi Roborock Vacuum](https://www.home-assistant.io/integrations/xiaomi_miio/)
-- [Mill Heaters](https://www.home-assistant.io/integrations/mill/)
-- [Onkyo Receiver](https://www.home-assistant.io/integrations/onkyo/)
+- [HASSMART墙壁86开关模块](https://bbs.hassbian.com/thread-2283-1-1.html)
+- [PZEM-004T-V3](https://bbs.hassbian.com/thread-8703-1-1.html)
+- [斐讯DC1](https://bbs.hassbian.com/thread-9248-1-1.html)
+- [斐讯M1](https://bbs.hassbian.com/thread-9223-1-1.html)
+- [斐讯A1](https://bbs.hassbian.com/thread-9223-1-1.html)
+- [博联L6](https://bbs.hassbian.com/thread-18620-1-1.html)
+- [小米蓝牙温湿度计2](https://bbs.hassbian.com/thread-16118-1-1.html)
+- [Arenti睿盯网络摄像头](https://imnks.com/8877.html)
 
 #### Z-Wave/Zigbee Devices
 - [Telldus Wall Plug](https://products.z-wavealliance.org/products/1536)
